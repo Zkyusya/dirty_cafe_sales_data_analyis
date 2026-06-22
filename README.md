@@ -1,6 +1,6 @@
 The dirty_cafe_sales_data is obtained from kaggle for data analysis.
 
-Here is the link to the dataset [https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data](link to the data)
+Here is the link to the dataset [https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data](link)
 
 The dataset contains 10,000 rows and 8 columns of synthetic data representing sales transactions in a cafe.
 
